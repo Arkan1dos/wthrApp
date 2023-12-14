@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">wthrApp</string>
+    <string name="preference_file_key">pref</string>
+</resources>
